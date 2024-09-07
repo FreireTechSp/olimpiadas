@@ -1,4 +1,4 @@
-##  Enciclopédia de Pessoas
+##  Enciclopédia de Pessoas - Imersão Dev com Google Gemini
 
 ###  **O que faz essa aplicação?**
 
